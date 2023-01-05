@@ -15,7 +15,7 @@ author: yung cack
 
 navbar-links:
   mc map: "mcmap"
-  Resources:
+  #Resources:
     #- cackhub mc map: "http://cackhub.ddnsfree.com:8123/"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
