@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Minecraft Map
+subtitle: Live cack view
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+<iframe src="http://cackhub.ddnsfree.com:8123/" width="100%" height="1200">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 
 ### My story
 
