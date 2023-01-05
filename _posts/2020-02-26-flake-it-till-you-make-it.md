@@ -2,9 +2,9 @@
 layout: post
 title: Jerk it like it owes you money
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Screenshot_20230103_111438.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Screenshot_20230103_111438.png
 tags: [books, test]
 ---
 
