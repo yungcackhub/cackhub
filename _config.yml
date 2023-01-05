@@ -14,7 +14,7 @@ author: yung cack
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  mc map: "mcmap"
   Resources:
     #- cackhub mc map: "http://cackhub.ddnsfree.com:8123/"
     #- Learn markdown: "https://www.markdowntutorial.com/"
